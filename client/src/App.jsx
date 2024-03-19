@@ -10,7 +10,9 @@ import Project from "./pages/Project";
 
 // import all the components we need
 import Headers from "./components/Header";
+
 // adding the routes using react-router-dom
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import FooterCom from "./components/FooterCom";
 function App() {
